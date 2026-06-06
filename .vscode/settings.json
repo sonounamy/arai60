@@ -1,3 +1,5 @@
 {
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "leetcode.workspaceFolder": "/Users/wady/workdir/arai60/problems",
+    "leetcode.defaultLanguage": "python3"
 }
